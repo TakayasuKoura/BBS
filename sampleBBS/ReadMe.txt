@@ -1,11 +1,9 @@
 開発環境
 OS				Windows7
-ソフトウェア	XAMPP
-				TeraPad
+ソフトウェア	XAMPP,TeraPad
 ハードウェア	Lenovo G570(CPU 2.5GHz メモリ 4GB)
 
-開発言語		PHP
-				HTML
+開発言語		PHP,HTML
 
 使用環境
 OS				Windows7
